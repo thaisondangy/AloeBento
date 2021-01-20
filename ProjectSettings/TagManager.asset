@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - TypeOfFood
+  - Carbs
+  - Proteins
+  - Fruits
+  - Veggies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 246663321
+    locked: 0
+  - name: Customers
+    uniqueID: 3777066871
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Kitchen
+    uniqueID: 143429951
+    locked: 0
+  - name: UI
+    uniqueID: 564918257
+    locked: 0
